@@ -75,7 +75,7 @@ const projects = [
     category: "Miniature Photography",
     title: "RWB Porsche 930 Ducktail Wing",
     description: " An Elegant Blue Porsche 930 with RWB Bodykit and Ducktail Wing Style on 64 Scale.",
-    image: "/assets/work/rwb-porsche.jpg",
+    image: "/assets/work/rwb-porsche.JPG",
     link: ""
   },
   {
@@ -83,7 +83,7 @@ const projects = [
     category: "Miniature Photography",
     title: "RWB Porsche 964 Apple Wing",
     description: " A Stunning RWB Porsche 964 with Apple Livery and Big Wing Style on 64 Scale.",
-    image: "/assets/work/rwb-apple.jpg",
+    image: "/assets/work/rwb-apple.JPG",
     link: ""
   },
   {
@@ -91,7 +91,7 @@ const projects = [
     category: "Miniature Photography",
     title: "1:64 Hot Wheels 1985 Honda City Turbo II",
     description: " A Fresh Orange from 1985 Honda City turbo reflected on 64 Scale by Hot Wheels.",
-    image: "/assets/work/citbo-orange.png",
+    image: "/assets/work/citbo-orange.PNG",
     link: ""
   }
 ];
